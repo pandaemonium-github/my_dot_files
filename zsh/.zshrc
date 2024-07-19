@@ -114,3 +114,6 @@ export WASMTIME_HOME="$HOME/.wasmtime"
 export PATH="$WASMTIME_HOME/bin:$PATH"
 
 . "/home/pandaemonium/.wasmedge/env"
+
+source /home/pandaemonium/.screenlayout/4-screens.sh
+
